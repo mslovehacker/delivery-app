@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: b0ce4f43-kr1-registry.container.nhncloud.com/delivery/delivery-app
-  tag: v1
+  tag: 6a22f5e
 
 # false 이면 Deployment, true 이면 Rollout 이 생성됩니다.
 progressiveDelivery: false
