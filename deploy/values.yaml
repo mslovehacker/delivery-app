@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 3
 
 image:
   repository: b0ce4f43-kr1-registry.container.nhncloud.com/delivery/delivery-app
