@@ -2,4 +2,4 @@
 replicaCount: 3
 
 image:
-  tag: 95ca7e6
+  tag: 4b37da9
